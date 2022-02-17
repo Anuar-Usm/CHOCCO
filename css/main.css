@@ -508,7 +508,7 @@ a {
 }
 
 .wrapper__content {
-  background-image: url("../../img/bg/bg.png");
+  background-image: url("../img/bg/bg.png");
   top: 0;
   left: 0;
   width: 100%;
