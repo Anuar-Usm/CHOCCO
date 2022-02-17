@@ -1,0 +1,42 @@
+
+.advantages__container{
+  margin-top: 40px;
+}
+
+.advantages__list{
+  display: flex;
+  flex-direction: row;
+  width: 460px;
+  height: 55px;
+}
+
+.advantages__item {
+  display: flex;
+}
+
+.advantages__item-pic{
+  margin-right: 10px;
+  width: 45%;
+  height: 80%;
+}
+
+.advantages__item-desc{
+  color: #ffffff;
+  font-family: "AlegreyaSans";
+  font-size: 16px;
+  font-weight: 400;
+  font-style: normal;
+  text-align: left;
+  margin: 0;
+}
+
+
+.berries__container{
+  position: relative;
+}
+
+.berries-pic {
+  position: absolute;
+  top: -228px; 
+  left: -54px;
+}
